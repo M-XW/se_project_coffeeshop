@@ -115,9 +115,6 @@
   align-items: flex-end;
 }
 
-.header__address {
-}
-
 .content {
 }
 
@@ -179,13 +176,13 @@
   justify-content: space-between;
 }
 
-.reservation {
+.bookatable {
 }
 
 .menu {
 }
 
-.about {
+.contacts {
 }
 
 .footer {
