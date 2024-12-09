@@ -1,0 +1,38 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.nav__logo {
+  position: relative;
+  left: -50px;
+  width: 105px;
+  height: 39px;
+}
+
+.nav__links {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  white-space: nowrap;
+  font-family: "inter";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0;
+}
+
+.nav__link {
+  color: #000;
+  text-decoration: none;
+}
+
+.nav__link:hover {
+  color: #2f80ed;
+  transition: ease-in-out;
+  transition-duration: 1.2s;
+  transition-delay: 0s;
+}

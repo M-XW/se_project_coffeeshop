@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To improve this project, I believe adding a sticky animated AI assistant to the that can answer any question a visitor may have would be benificial. Additionally, implementing a scrolling animation that transitions as the visitor changes sections of the page would make the webpage more attractive.
