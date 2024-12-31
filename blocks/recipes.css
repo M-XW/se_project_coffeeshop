@@ -35,6 +35,10 @@
   display: flex;
   justify-content: center;
   gap: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 0px;
+  list-style-type: none;
 }
 
 .recipes__iframe {
