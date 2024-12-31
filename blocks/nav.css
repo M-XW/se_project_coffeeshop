@@ -18,7 +18,7 @@
   list-style-type: none;
   padding: 0;
   white-space: nowrap;
-  font-family: "inter";
+  font-family: inter, arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;

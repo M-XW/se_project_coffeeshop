@@ -15,7 +15,7 @@
 }
 
 .form__label {
-  font-family: Inter;
+  font-family: inter, arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -26,7 +26,7 @@
 .form__input {
   margin-top: 8px;
   border-radius: 4px;
-  font-family: Inter;
+  font-family: inter, arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -43,11 +43,6 @@
 
 ::placeholder {
   color: #838383;
-  /*font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;*/
 }
 
 .form__button {
