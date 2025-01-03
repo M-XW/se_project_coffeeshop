@@ -21,6 +21,7 @@
   padding: 100px 80px 173px;
   display: flex;
   justify-content: space-between;
+  z-index: 0;
 }
 
 .about__title {
@@ -63,7 +64,7 @@
   border-radius: 50%;
   left: -129px;
   top: -152px;
-  /*z-index: 1;*/
+  z-index: -1;
 }
 
 .about__circle_animation_blurred {

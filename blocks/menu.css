@@ -54,7 +54,13 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
-  margin-top: 0px;
+  margin: 0px;
+  padding-bottom: 16px;
+}
+
+.card__list {
+  padding-left: 0px;
+  margin: 0px;
 }
 
 .card__list-item {
@@ -66,6 +72,7 @@
   font-size: 16px;
   line-height: 20px;
   list-style: none;
+  padding-top: 16px;
 }
 
 .card__list-divider {
@@ -75,6 +82,6 @@
   border-bottom-width: thin;
 }
 
-.list {
-  padding-left: 0px;
-}
+/*.list {
+  /*padding-left: 0px;
+}*/
