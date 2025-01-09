@@ -1,6 +1,5 @@
 .footer {
   padding: 60px 80px 60px 80px;
-  font-family: "noto serif", "Times New Roman", serif;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
 }
 
@@ -11,7 +10,7 @@
 }
 
 .footer__logo {
-  height: 30px;
+  height: 39px;
   width: 105px;
 }
 
