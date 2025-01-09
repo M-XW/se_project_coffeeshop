@@ -26,7 +26,6 @@
 
 .about__title {
   color: #ffffff;
-  font-family: inter, arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -47,13 +46,13 @@
   line-height: 30px;
   margin-top: 19px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
 }
 
-.aboout__paragraph {
-  row-gap: 20px;
-  display: flex;
-  justify-content: flex-end;
-  /*margin: 0 0 20px 0;*/
+.about__paragraph {
+  margin: 0;
 }
 
 .about__circle {

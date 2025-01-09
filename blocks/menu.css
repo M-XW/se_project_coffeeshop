@@ -11,7 +11,6 @@
 .menu__title {
   max-width: 780px;
   margin-bottom: 24px;
-  font-family: inter, arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -42,44 +41,6 @@
   justify-content: center;
   row-gap: 100px;
   column-gap: 100px;
-}
-
-.card {
-  width: 540px;
-}
-
-.card__title {
-  font-family: inter, arial, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 0px;
-  padding-bottom: 16px;
-}
-
-.card__list {
-  padding-left: 0px;
-  margin: 0px;
-}
-
-.card__list-item {
-  display: flex;
-  flex-direction: row;
-  font-family: "Noto Serif", "Times New Roman", serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  list-style: none;
-  padding-top: 16px;
-}
-
-.card__list-divider {
-  /*color: black;*/
-  flex-grow: 1;
-  border-bottom: solid;
-  border-bottom-width: thin;
 }
 
 /*.list {
